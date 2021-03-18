@@ -102,7 +102,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 # []()Privilege Escalation
 
-> **after some eumeration i foudn the password of the user bill in /var/backups**
+> **after some eumeration i found the password of the user bill in /var/backups**
 
 ![](https://i.ibb.co/zQJw7YS/cat-comm.png)
 
